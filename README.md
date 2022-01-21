@@ -1,1 +1,0 @@
-# Terraform_Module_Anthos
